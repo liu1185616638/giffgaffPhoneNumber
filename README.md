@@ -1,0 +1,2 @@
+# giffgaffPhoneNumber
+giffgaff运营商eSIM注册流程
