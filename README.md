@@ -56,7 +56,15 @@ giffgaff运营商eSIM注册流程
 
 这里是一个小技巧。大部分国行手机硬件不支持eSIM，但我们用模拟器来"骗"一下giffgaff App。
 
-安装一个安卓模拟器（推荐MuMu），在模拟器里安装giffgaff App。用LSPosed框架Hook一下eSIM检测接口，这样App就会认为你的设备具备eSIM能力。
+安装一个安卓模拟器（推荐雷电），在模拟器里安装giffgaff App。用LSPosed框架Hook一下eSIM检测接口，这样App就会认为你的设备具备eSIM能力。
+
+详细说明一下这里，关键！！！！！！
+1、安装官网雷电9模拟器
+2、前往 https://www.duokaiya.com/magisk.html 下载LSPosed框架、Magisk面具
+3、上述地址有打包的教程和文件，都安装到模拟器，然后按教程配置。
+4、等你的面具安装好了，安装我上传的app-release-sign.apk 这个就是模拟返回有eSIM的模块了
+5、打开giffgaff就可以看到不会提示你手机没有eSIM了。
+
 
 第三步：选择套餐——拉到最下面
 
